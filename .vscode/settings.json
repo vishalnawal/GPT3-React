@@ -1,0 +1,5 @@
+{
+    "gitlens.codeLens.enabled": false,
+    "github.gitAuthentication": true,
+    "gitlens.virtualRepositories.enabled": true
+}
