@@ -76,6 +76,10 @@
     border-bottom-right-radius: 5px;
 }
 
+div#home{
+    display: flex;
+}
+
 .gpt3__header-content__people {
     width: 100%;
     display: flex;
