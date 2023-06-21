@@ -39,6 +39,7 @@ a {
 
 .section__padding {
     padding: 4rem 6rem;
+    display: flex;
 }
 
 .section__margin {
